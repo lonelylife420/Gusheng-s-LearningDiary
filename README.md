@@ -10,8 +10,8 @@
 
 [Leetcode : 34.在排序数组中查找元素的第一个和最后一个位置](https://leetcode-cn.com/problems/find-first-and-last-position-of-element-in-sorted-array/)
 
-        有一说一看carl写的 看了很久才搞懂意思，属实有点蠢
-        几乎照着打了一遍，AC不了[流汗]
+有一说一看carl写的 看了很久才搞懂意思，属实有点蠢
+几乎照着打了一遍，AC不了[流汗]
         
 [Leetcode : 69.x 的平方根](https://leetcode-cn.com/problems/sqrtx/)
 
