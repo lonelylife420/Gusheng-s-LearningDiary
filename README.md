@@ -1,4 +1,4 @@
-#跟着[《代码随想录》](https://github.com/youngyangyang04/leetcode-master)开始刷题！
+# 跟着[《代码随想录》](https://github.com/youngyangyang04/leetcode-master)开始刷题！
 ## 第一天（顺便练练markdown写笔记）
 ### 一、数组
 #### 1. 数组是存放在连续内存空间上的相同类型数据的集合。
