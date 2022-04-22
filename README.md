@@ -16,7 +16,7 @@
 [Leetcode : 69.x 的平方根](https://leetcode-cn.com/problems/sqrtx/)
 
 我选择暴力算法从1开始
-```c++
+```cpp 
 class Solution {
 public:
     int mySqrt(int x) {
@@ -32,6 +32,8 @@ public:
 错误提示:
     Line 5: Char 39: runtime error: signed integer overflow: 2147483647 + 1 cannot be represented in type 'int' (solution.cpp)
     SUMMARY: UndefinedBehaviorSanitizer: undefined-behavior prog_joined.cpp:14:39
+
+突然发现好像咱练习的是二分查找 明天想想该咋做($\color{#FF0000}{2022.4.22}$ )
 
 [Leetcode : 367.有效的完全平方数](https://leetcode-cn.com/problems/valid-perfect-square/)
 
